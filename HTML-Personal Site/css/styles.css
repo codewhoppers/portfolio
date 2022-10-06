@@ -3,20 +3,20 @@ body {
 
 }
 hr {
-    border-style: none;
-    border-top-style: dotted;
+    border-style:groove;
+    border-top-style:inherit;
     border-color: none ;
-    border-width: 5px;
-    height: 0px;
-    width: 5%;
+    border-width: 5\8px;
+    height: 2px;
+    width: 9%;
     
 }
 img {
-    height: 100px;
+    height: 140px;
 }
 h1 {
-    color:#66BFBF;
+    color:green;
 }
 h3 {
-    color: #66BFBF;
+    color: #66BF;
 }
