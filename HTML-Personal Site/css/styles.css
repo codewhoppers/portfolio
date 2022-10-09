@@ -1,22 +1,23 @@
-body {
-    background-color: #EAF6F6;
+body{
+    background-color: aqua;
+}
+
+.form{
+/* border: 10px solid red; */
+/* margin-left: 100px; */
+/* width: 50%; */
+/* display: list-item; */
+text-align: center;
+/* background-color: aqua; */
+
 
 }
-hr {
-    border-style:groove;
-    border-top-style:inherit;
-    border-color: none ;
-    border-width: 5\8px;
-    height: 2px;
-    width: 9%;
-    
+.yourname{
+    margin-inline: 10px;
+    margin-bottom: 10px;
 }
-img {
-    height: 140px;
-}
-h1 {
-    color:green;
-}
-h3 {
-    color: #66BF;
+.btn{
+    padding: 10px 15px;
+    border-radius: 2px solid red;
+    background-color: blue;
 }
